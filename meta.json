@@ -1,0 +1,29 @@
+{
+  "repo": "freshbooks-premium-accounting",
+  "product": "FreshBooks Premium Accounting",
+  "kind": "finance",
+  "install_type": "nexpath",
+  "install_url": "https://freshbooks.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "finance",
+  "topics": [
+    "freshbooks",
+    "accounting-software",
+    "invoicing",
+    "bookkeeping",
+    "small-business-finance",
+    "expense-tracking",
+    "billing-tools",
+    "cloud-accounting",
+    "freshbooks-setup-failed-fix",
+    "how-to-install-freshbooks",
+    "freshbooks-windows",
+    "finance-tools",
+    "windows-tools",
+    "business-utility"
+  ],
+  "stars_cache": 18,
+  "nexpath_slug": "freshbooks",
+  "nexpath_app_name": "FreshBooks"
+}
